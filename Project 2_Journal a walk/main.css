@@ -1,0 +1,113 @@
+.container{
+    position:relative;
+    width:300px;
+}
+
+.pinlocation1{
+    position:absolute;
+    left:300px;
+    top:750px;
+    z-index:index 1;
+}
+
+.pinlocation2{
+    position:absolute;
+    left:315px;
+    top:710px;
+    z-index:index 1;
+}
+
+.pinlocation3{
+    position:absolute;
+    left:320px;
+    top:650px;
+    z-index:index 1;
+}
+
+.pinlocation4{
+    position:absolute;
+    left:400px;
+    top:590px;
+    z-index:index 1;
+}
+
+.pinlocation5{
+    position:absolute;
+    left:480px;
+    top:550px;
+    z-index:index 1;
+}
+
+.pinlocation6{
+    position:absolute;
+    left:525px;
+    top:500px;
+    z-index:index 1;
+}
+
+.pinlocation7{
+    position:absolute;
+    left:250px;
+    top:355px;
+    z-index:index 1;
+}
+
+.pinlocation8{
+    position:absolute;
+    left:60px;
+    top:250px;
+    z-index:index 1;
+}
+
+.pinlocation9{
+    position:absolute;
+    left:170px;
+    top:190px;
+    z-index:index 1;
+}
+
+.bottom-div{
+    position:absolute;
+}
+
+body{
+    background-image: url("Images/BACKGROUND.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    background-repeat: repeat;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* PAGES */
+
+.NoteBG img{
+    display: block;
+    width: 100;
+    height: auto;
+}
+
+.Text {
+    position: absolute;
+    text-align:center;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.Noteimages1{
+    position:absolute;
+    left:40%;
+    top:200px;
+}
+
+.Noteimages2{
+    position:absolute;
+    left:450px;
+    top:200px;
+}
+
+.Noteimages1w{
+    position:absolute;
+    left:27%;
+    top:200px;
+}
