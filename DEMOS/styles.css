@@ -1,0 +1,52 @@
+.square{
+    height: 200px;
+    width: 200px;
+    background-color:blue;
+    filter: blur(20px);
+    transition-property: background-color, transform, filter;
+    transition-duration: 500ms;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0.2s;
+    
+}
+
+.square:hover{
+    transform: rotate(45deg) scale(.5);
+    background-color: rgb(255, 0, 234);
+    filter: blur(50px);
+    transition-property: background-color, transform, filter;
+    transition-duration: 500ms;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0.2s;
+}
+
+@keyframes colors{
+0%{
+    background-color: darkorchid;
+    transform: translate(0px);
+}
+
+25%{
+    background-color:blue;
+}
+
+50%{
+    background-color:aqua;
+    transform: translate(500px);
+}
+
+100%{
+    background-color:darkorchid;
+    transform: translate(0px);
+}
+}
+
+.circle{
+    height: 200px;
+    width: 200px;
+    background-color:darkorchid;
+    border-radius: 100%;
+    animation-name:colors;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
