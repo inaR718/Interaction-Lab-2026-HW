@@ -1,0 +1,1908 @@
+@keyframes layer1{
+0%{
+    transform: translate(0px);
+}
+
+25%{
+    transform: translate(100px);
+
+}
+
+75%{
+    transform: translate(-100px);
+}
+
+100%{
+    transform: translate(0px);
+}
+}
+
+@keyframes layer2{
+0%{
+    transform: translate(0px);
+}
+
+25%{
+    transform: translate(90px);
+
+}
+
+75%{
+    transform: translate(-90px);
+}
+
+100%{
+    transform: translate(0px);
+}
+}
+
+@keyframes layer3{
+0%{
+    transform: translate(0px);
+}
+
+25%{
+    transform: translate(70px);
+
+}
+
+75%{
+    transform: translate(-70px);
+}
+
+100%{
+    transform: translate(0px);
+}
+}
+
+@keyframes layer4{
+0%{
+    transform: translate(0px);
+}
+
+25%{
+    transform: translate(50px);
+
+}
+
+75%{
+    transform: translate(-50px);
+}
+
+100%{
+    transform: translate(0px);
+}
+}
+
+@keyframes layer5{
+0%{
+    transform: translate(0px);
+}
+
+25%{
+    transform: translate(20px);
+
+}
+
+75%{
+    transform: translate(-20px);
+}
+
+100%{
+    transform: translate(0px);
+}
+}
+
+body{
+    height: 800px;
+    background-image: linear-gradient(#fff8f6, #fce0d8);
+    background-color: rgb(127, 107, 98);
+}
+
+.stick1{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    z-index: 100;
+    position: absolute;
+    left: 38%;
+    top: 44%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+
+}
+
+.stick2{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 39%;
+    top: 42%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick3{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 40%;
+    top: 40%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick4{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 41%;
+    top: 38%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick5{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 42%;
+    top: 36%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick6{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 43%;
+    top: 34%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick7{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 44%;
+    top: 32%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick8{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 45%;
+    top: 30%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick9{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 46%;
+    top:28%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick10{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 47%;
+    top: 26%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick11{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 48%;
+    top: 24%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick12{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 49%;
+    top: 22%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick13{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 50%;
+    top:20%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick14{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 51%;
+    top: 22%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick15{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 52%;
+    top: 24%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick16{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 53%;
+    top: 26%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick17{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 54%;
+    top: 28%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick18{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 55%;
+    top: 30%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick19{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 56%;
+    top: 32%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick20{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 57%;
+    top: 34%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick21{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 58%;
+    top: 36%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick22{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 59%;
+    top: 38%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick23{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 60%;
+    top: 40%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick24{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 61%;
+    top: 42%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.stick25{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(90, 35, 7);
+    position:absolute;
+    z-index: 100;
+    left: 62%;
+    top: 44%;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+
+
+
+
+
+
+.bstick1{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    z-index: 90;
+    position: absolute;
+    left: 38%;
+    top: 44%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick2{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 39%;
+    top: 42%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick3{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 40%;
+    top: 40%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick4{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 41%;
+    top: 38%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick5{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 42%;
+    top: 36%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick6{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 43%;
+    top: 34%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick7{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 44%;
+    top: 32%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick8{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 45%;
+    top: 30%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick9{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 46%;
+    top:28%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick10{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 47%;
+    top: 26%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick11{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 48%;
+    top: 24%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick12{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 49%;
+    top: 22%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick13{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 50%;
+    top:20%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick14{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 51%;
+    top: 22%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick15{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 52%;
+    top: 24%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick16{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 53%;
+    top: 26%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick17{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 54%;
+    top: 28%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick18{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 55%;
+    top: 30%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick19{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 56%;
+    top: 32%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick20{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 57%;
+    top: 34%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick21{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 58%;
+    top: 36%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick22{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 59%;
+    top: 38%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick23{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 60%;
+    top: 40%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick24{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 61%;
+    top: 42%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bstick25{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(148, 65, 23);
+    position:absolute;
+    z-index: 90;
+    left: 62%;
+    top: 44%;
+    animation-name:layer2;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+
+
+.cstick1{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    z-index: 85;
+    position: absolute;
+    left: 38%;
+    top: 44%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick2{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 39%;
+    top: 42%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick3{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 40%;
+    top: 40%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick4{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 41%;
+    top: 38%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick5{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 42%;
+    top: 36%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick6{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 43%;
+    top: 34%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick7{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 44%;
+    top: 32%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick8{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 45%;
+    top: 30%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick9{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 46%;
+    top:28%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick10{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 47%;
+    top: 26%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick11{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 48%;
+    top: 24%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick12{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 49%;
+    top: 22%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick13{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 50%;
+    top:20%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick14{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 51%;
+    top: 22%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick15{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 52%;
+    top: 24%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick16{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 53%;
+    top: 26%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick17{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 54%;
+    top: 28%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick18{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 55%;
+    top: 30%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick19{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 56%;
+    top: 32%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick20{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 57%;
+    top: 34%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick21{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 58%;
+    top: 36%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick22{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 59%;
+    top: 38%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick23{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 60%;
+    top: 40%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick24{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 61%;
+    top: 42%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.cstick25{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(186, 99, 56);
+    position:absolute;
+    z-index: 85;
+    left: 62%;
+    top: 44%;
+    animation-name:layer3;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+
+
+
+
+
+.dstick1{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    z-index: 80;
+    position: absolute;
+    left: 38%;
+    top: 44%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick2{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 39%;
+    top: 42%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick3{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 40%;
+    top: 40%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick4{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 41%;
+    top: 38%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick5{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 42%;
+    top: 36%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick6{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 43%;
+    top: 34%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick7{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 44%;
+    top: 32%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick8{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 45%;
+    top: 30%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick9{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 46%;
+    top:28%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick10{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 47%;
+    top: 26%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick11{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 48%;
+    top: 24%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick12{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 49%;
+    top: 22%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick13{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 50%;
+    top:20%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick14{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 51%;
+    top: 22%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick15{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 52%;
+    top: 24%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick16{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 53%;
+    top: 26%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick17{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 54%;
+    top: 28%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick18{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 55%;
+    top: 30%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick19{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 56%;
+    top: 32%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick20{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 57%;
+    top: 34%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick21{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 58%;
+    top: 36%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick22{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 59%;
+    top: 38%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick23{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 60%;
+    top: 40%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick24{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 61%;
+    top: 42%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.dstick25{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(220, 143, 105);
+    position:absolute;
+    z-index: 80;
+    left: 62%;
+    top: 44%;
+    animation-name:layer4;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+
+
+
+
+
+.estick1{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    z-index: 70;
+    position: absolute;
+    left: 38%;
+    top: 44%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick2{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 39%;
+    top: 42%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick3{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 40%;
+    top: 40%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick4{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 41%;
+    top: 38%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick5{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 42%;
+    top: 36%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick6{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 43%;
+    top: 34%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick7{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 44%;
+    top: 32%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick8{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 45%;
+    top: 30%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick9{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 46%;
+    top:28%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick10{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 47%;
+    top: 26%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick11{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 48%;
+    top: 24%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick12{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 49%;
+    top: 22%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick13{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 50%;
+    top:20%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick14{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 51%;
+    top: 22%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick15{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 52%;
+    top: 24%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick16{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 53%;
+    top: 26%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick17{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 54%;
+    top: 28%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick18{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 55%;
+    top: 30%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick19{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 56%;
+    top: 32%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick20{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 57%;
+    top: 34%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick21{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 58%;
+    top: 36%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick22{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 59%;
+    top: 38%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick23{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 60%;
+    top: 40%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick24{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 61%;
+    top: 42%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.estick25{
+    height: 300px;
+    width: 8px;
+    background-color: rgb(239, 187, 161);
+    position:absolute;
+    z-index: 70;
+    left: 62%;
+    top: 44%;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.box1{
+    height: 50px;
+    width: 130px;
+    background-color: rgb(251, 100, 25);
+    position: absolute;
+    top: 90%;
+    left: 45%;
+    z-index: 60;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.box2{
+    height: 50px;
+    width: 130px;
+    background-color: rgb(251, 100, 25);
+    position: absolute;
+    top: 90%;
+    left: 36%;
+    z-index: 60;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+
+}
+
+.box3{
+    height: 50px;
+    width: 130px;
+    background-color: rgb(251, 100, 25);
+    position: absolute;
+    top: 90%;
+    left: 54%;
+    z-index: 60;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+
+}
+
+.box4{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(251, 100, 25);
+    position: absolute;
+    top: 97%;
+    left: 44%;
+    z-index: 60;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+
+}
+
+.box5{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(251, 100, 25);
+    position: absolute;
+    top: 97%;
+    left: 54.5%;
+    z-index: 60;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.box6{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(251, 100, 25);
+    position: absolute;
+    top: 97%;
+    left: 33.5%;
+    z-index: 60;
+    animation-name:layer1;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+
+
+.bbox1{
+    height: 50px;
+    width: 130px;
+    background-color: rgb(255, 157, 109);
+    position: absolute;
+    top: 90%;
+    left: 45%;
+    z-index: 50;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bbox2{
+    height: 50px;
+    width: 130px;
+    background-color: rgb(255, 157, 109);
+    position: absolute;
+    top: 90%;
+    left: 36%;
+    z-index: 50;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+
+}
+
+.bbox3{
+    height: 50px;
+    width: 130px;
+    background-color: rgb(255, 157, 109);
+    position: absolute;
+    top: 90%;
+    left: 54%;
+    z-index: 50;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+
+}
+
+.bbox4{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(255, 157, 109);
+    position: absolute;
+    top: 97%;
+    left: 44%;
+    z-index: 50;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+
+}
+
+.bbox5{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(255, 157, 109);
+    position: absolute;
+    top: 97%;
+    left: 54.5%;
+    z-index: 50;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
+
+.bbox6{
+    height: 50px;
+    width: 150px;
+    background-color: rgb(255, 157, 109);
+    position: absolute;
+    top: 97%;
+    left: 33.5%;
+    z-index: 50;
+    animation-name:layer5;
+    animation-duration:20s;
+    animation-iteration-count:infinite;
+}
